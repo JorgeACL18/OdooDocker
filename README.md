@@ -60,6 +60,18 @@ Ahora que tenemos ejecutando nuestro docker compose, tenemos que entrar a `local
 <img width="2082" height="1527" alt="Captura de pantalla 2025-11-24 162025" src="https://github.com/user-attachments/assets/73358335-b85e-423c-ab8f-832e38fdc69c" />
 
 
+## Odoo
+Después de crear el servidor, ya podemos pasar a Odoo para terminar la instalación y experimentar con él.
+
+Una vez introducidas las credenciales necesarias, habremos terminado la instalación de nuestro Odoo.
+
+<img width="2084" height="1533" alt="Captura de pantalla 2025-11-24 163212" src="https://github.com/user-attachments/assets/47833f94-1852-4c2e-bc51-d33fb70fb9ab" />
+
+
+Aplicación "Sales":
+
+
+<img width="2083" height="1501" alt="Captura de pantalla 2025-11-24 163836" src="https://github.com/user-attachments/assets/0bb44e91-ed89-44e7-9176-2332b14704e6" />
 
 
 
