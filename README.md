@@ -51,3 +51,16 @@ volumes:
   web_data:
   pgadmin_data:
 ```
+
+## PgAdmin
+Ahora que tenemos ejecutando nuestro docker compose, tenemos que entrar a `localhost:5050` para acceder a la página de PgAdmin. En esta página tendremos que crear un servidor que servirá como base de datos para Odoo, en mi caso lo hice así:
+
+<img width="1625" height="1441" alt="Captura de pantalla 2025-11-24 162000" src="https://github.com/user-attachments/assets/26b2dc82-9c7f-4852-83f6-7f773dc8a866" />
+<img width="1625" height="1441" alt="Captura de pantalla 2025-11-24 161945" src="https://github.com/user-attachments/assets/c51cf581-aeb2-434e-a263-a4019da4fd8e" />
+<img width="2082" height="1527" alt="Captura de pantalla 2025-11-24 162025" src="https://github.com/user-attachments/assets/73358335-b85e-423c-ab8f-832e38fdc69c" />
+
+
+
+
+
+
